@@ -46,8 +46,33 @@
     
 }
 
-.hero{
+.hero-container{
+background-color: #1F2937;
+display: flex;
+justify-content: space-around;
+}
+
+.text-hero{
     display: flex;
-    background-color: #1F2937;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    padding-left: 150px;
+    
+}
+
+.image-hero{
+    padding-right: 200px;
+}
+
+.sign-up-button{
+    border-radius: 12px;
+    background-color: #3882f6;
+    border: 0px;
+    margin-right: 350px;
+    height: 25px;
+    color: white;
+    font-weight: bold;
 
 }
+
