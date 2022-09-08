@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu-container{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+    color: white;
+}
+.menu {
+    width: 1100px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links {
+    width: auto;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.header-link-1{
+    display: flex;
+    margin-right: 10px;
+}
+.header-link-2{
+    display: flex;
+    margin-right: 10px;
+}
+.header-link-3{
+    display: flex;
+    margin-right: 10px;
+}
+
+.header-logo{
+    font-size: 24px;
+    display: flex;
+    align-items:flex-end
+    
+}
+
+.hero{
+    display: flex;
+    background-color: #1F2937;
+
+}
