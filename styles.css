@@ -114,7 +114,7 @@ justify-content: space-around;
 
     display: flex;
     justify-content: center;
-    padding-top: 250px;
+    padding-top: 100px;
     padding-bottom: 250px;
     padding-left: 300px;
     padding-right: 300px;
@@ -130,3 +130,42 @@ justify-content: space-around;
     font-size: 20px;
     font-weight: bold;
 }
+
+.banner-container{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.banner{
+    display:flex;
+    background-color: #3882f6;
+    flex-direction: column;
+    align-items: flex-start;
+    color: white;
+    padding-left: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.sign-up-button2{
+    display: flex;
+    background-color: #3882f6;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 53px;
+    padding-bottom: 60px;
+    border-radius: 5px;
+    border-color: white;
+    
+}
+
+
+
+
