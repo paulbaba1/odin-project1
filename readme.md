@@ -1,0 +1,1 @@
+This website has been created by Paul Baba while taking The Odin Project Course.
